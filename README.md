@@ -1,11 +1,8 @@
 # bitkub-api-warn
 เมื่อ bitkub  เปลี่ยนราคามันจะเเจ้งเตือนไปยังในลาย
 
-#### Stealer features
+#### วิธีใช้งาน
 
-- [x] Stealing **discord token**
-- [x] Stealing **IP address**
-- [x] Stealing MAC Address
-- [x] Stealing Desktop username
-- [x] Token Protectors bypass
-- [x] Self-updating, built-in updater
+- [x] ให้ไปเอาโทเค่นได้ที่เว็บ https://notify-bot.line.me/th/
+- [x] หลักจากสมัคร จนได้โทเค่นมาแล้ว ให้เอาโทเค่น ไปใส่ที่ บรรทัดที่ 5
+- [x] จบ
