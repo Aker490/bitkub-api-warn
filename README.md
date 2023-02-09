@@ -8,4 +8,4 @@
 
 #### วิธีติดตั้ง 
 - [x] pip install -r requirements.txt
-- [x] python bitkub-api-warn.py
+- [x] python bitkub.py
