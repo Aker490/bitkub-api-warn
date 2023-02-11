@@ -2,7 +2,7 @@ import requests
 
 def main(message):
     url = 'https://notify-api.line.me/api/notify'
-    token = '3fZ9USSjH3l4Tp1s1w66jCAhxINsr2vUiVE6cxCQs2Q' ##ตรงนี้ใส่โทเค่น
+    token = '3fZhh9S58al4T25s1w66jCAhxINg12vUiVE6cxCQs2v' ##ตรงนี้ใส่โทเค่น
     header = {'content-type': 'application/x-www-form-urlencoded',
               'Authorization': 'Bearer ' + token}
      
